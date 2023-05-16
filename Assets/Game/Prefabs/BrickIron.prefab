@@ -1,0 +1,131 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &3080872231451980111
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 1735101082899074552, guid: 8657e1aad1b1443979f746833d1d15d3, type: 3}
+      propertyPath: m_Size.x
+      value: 1.84
+      objectReference: {fileID: 0}
+    - target: {fileID: 1735101082899074552, guid: 8657e1aad1b1443979f746833d1d15d3, type: 3}
+      propertyPath: m_Size.y
+      value: 1.82
+      objectReference: {fileID: 0}
+    - target: {fileID: 1735101082899074552, guid: 8657e1aad1b1443979f746833d1d15d3, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: -977695638, guid: 734b6dbd40332442eb4ba74ec4a446b7, type: 3}
+    - target: {fileID: 1735101082899074552, guid: 8657e1aad1b1443979f746833d1d15d3, type: 3}
+      propertyPath: m_WasSpriteAssigned
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1735101082899074553, guid: 8657e1aad1b1443979f746833d1d15d3, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1735101082899074553, guid: 8657e1aad1b1443979f746833d1d15d3, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1735101082899074553, guid: 8657e1aad1b1443979f746833d1d15d3, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1735101082899074553, guid: 8657e1aad1b1443979f746833d1d15d3, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1735101082899074553, guid: 8657e1aad1b1443979f746833d1d15d3, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1735101082899074553, guid: 8657e1aad1b1443979f746833d1d15d3, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1735101082899074553, guid: 8657e1aad1b1443979f746833d1d15d3, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1735101082899074553, guid: 8657e1aad1b1443979f746833d1d15d3, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1735101082899074553, guid: 8657e1aad1b1443979f746833d1d15d3, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1735101082899074553, guid: 8657e1aad1b1443979f746833d1d15d3, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1735101082899074553, guid: 8657e1aad1b1443979f746833d1d15d3, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1735101082899074554, guid: 8657e1aad1b1443979f746833d1d15d3, type: 3}
+      propertyPath: m_SpriteTilingProperty.newSize.x
+      value: 1.84
+      objectReference: {fileID: 0}
+    - target: {fileID: 1735101082899074554, guid: 8657e1aad1b1443979f746833d1d15d3, type: 3}
+      propertyPath: m_SpriteTilingProperty.newSize.y
+      value: 1.82
+      objectReference: {fileID: 0}
+    - target: {fileID: 1735101082899074554, guid: 8657e1aad1b1443979f746833d1d15d3, type: 3}
+      propertyPath: m_SpriteTilingProperty.oldSize.x
+      value: 1.84
+      objectReference: {fileID: 0}
+    - target: {fileID: 1735101082899074554, guid: 8657e1aad1b1443979f746833d1d15d3, type: 3}
+      propertyPath: m_SpriteTilingProperty.oldSize.y
+      value: 1.82
+      objectReference: {fileID: 0}
+    - target: {fileID: 1735101082899074555, guid: 8657e1aad1b1443979f746833d1d15d3, type: 3}
+      propertyPath: potion
+      value: 
+      objectReference: {fileID: 3866532392970266910, guid: 10fc26ffbe0e24bd28454c6eaf151303, type: 3}
+    - target: {fileID: 1735101082899074555, guid: 8657e1aad1b1443979f746833d1d15d3, type: 3}
+      propertyPath: brickScore
+      value: 20
+      objectReference: {fileID: 0}
+    - target: {fileID: 1735101082899074555, guid: 8657e1aad1b1443979f746833d1d15d3, type: 3}
+      propertyPath: gameManager
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 1735101082899074555, guid: 8657e1aad1b1443979f746833d1d15d3, type: 3}
+      propertyPath: potionRarity
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 1735101082899074555, guid: 8657e1aad1b1443979f746833d1d15d3, type: 3}
+      propertyPath: scoreMechanism
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 1735101082899074555, guid: 8657e1aad1b1443979f746833d1d15d3, type: 3}
+      propertyPath: breakEffectSprites.Array.size
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 1735101082899074555, guid: 8657e1aad1b1443979f746833d1d15d3, type: 3}
+      propertyPath: breakEffectSprites.Array.data[0]
+      value: 
+      objectReference: {fileID: 1977083586, guid: 3c57a7f826a0d4e9ba93d082d342cd8f, type: 3}
+    - target: {fileID: 1735101082899074555, guid: 8657e1aad1b1443979f746833d1d15d3, type: 3}
+      propertyPath: breakEffectSprites.Array.data[1]
+      value: 
+      objectReference: {fileID: 1282576514, guid: 3c57a7f826a0d4e9ba93d082d342cd8f, type: 3}
+    - target: {fileID: 1735101082899074555, guid: 8657e1aad1b1443979f746833d1d15d3, type: 3}
+      propertyPath: breakEffectSprites.Array.data[2]
+      value: 
+      objectReference: {fileID: 1043892449, guid: 3c57a7f826a0d4e9ba93d082d342cd8f, type: 3}
+    - target: {fileID: 1735101082899074555, guid: 8657e1aad1b1443979f746833d1d15d3, type: 3}
+      propertyPath: breakEffectSprites.Array.data[3]
+      value: 
+      objectReference: {fileID: -1714904569, guid: 3c57a7f826a0d4e9ba93d082d342cd8f, type: 3}
+    - target: {fileID: 1735101082899074559, guid: 8657e1aad1b1443979f746833d1d15d3, type: 3}
+      propertyPath: m_Name
+      value: BrickIron
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 8657e1aad1b1443979f746833d1d15d3, type: 3}

@@ -1,0 +1,123 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &1373108796044740636
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 1735101082899074552, guid: 8657e1aad1b1443979f746833d1d15d3, type: 3}
+      propertyPath: m_Size.x
+      value: 1.83
+      objectReference: {fileID: 0}
+    - target: {fileID: 1735101082899074552, guid: 8657e1aad1b1443979f746833d1d15d3, type: 3}
+      propertyPath: m_Size.y
+      value: 1.79
+      objectReference: {fileID: 0}
+    - target: {fileID: 1735101082899074552, guid: 8657e1aad1b1443979f746833d1d15d3, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 1742590866, guid: d6da0beb0172248cf93d7d8a82ca2cd5, type: 3}
+    - target: {fileID: 1735101082899074552, guid: 8657e1aad1b1443979f746833d1d15d3, type: 3}
+      propertyPath: m_WasSpriteAssigned
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1735101082899074553, guid: 8657e1aad1b1443979f746833d1d15d3, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1735101082899074553, guid: 8657e1aad1b1443979f746833d1d15d3, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1735101082899074553, guid: 8657e1aad1b1443979f746833d1d15d3, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1735101082899074553, guid: 8657e1aad1b1443979f746833d1d15d3, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1735101082899074553, guid: 8657e1aad1b1443979f746833d1d15d3, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1735101082899074553, guid: 8657e1aad1b1443979f746833d1d15d3, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1735101082899074553, guid: 8657e1aad1b1443979f746833d1d15d3, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1735101082899074553, guid: 8657e1aad1b1443979f746833d1d15d3, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1735101082899074553, guid: 8657e1aad1b1443979f746833d1d15d3, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1735101082899074553, guid: 8657e1aad1b1443979f746833d1d15d3, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1735101082899074553, guid: 8657e1aad1b1443979f746833d1d15d3, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1735101082899074554, guid: 8657e1aad1b1443979f746833d1d15d3, type: 3}
+      propertyPath: m_SpriteTilingProperty.newSize.x
+      value: 1.83
+      objectReference: {fileID: 0}
+    - target: {fileID: 1735101082899074554, guid: 8657e1aad1b1443979f746833d1d15d3, type: 3}
+      propertyPath: m_SpriteTilingProperty.newSize.y
+      value: 1.79
+      objectReference: {fileID: 0}
+    - target: {fileID: 1735101082899074555, guid: 8657e1aad1b1443979f746833d1d15d3, type: 3}
+      propertyPath: potion
+      value: 
+      objectReference: {fileID: 3671495951614060959, guid: 67f9f363f09c14e23b1d6f5a7c22dfdd, type: 3}
+    - target: {fileID: 1735101082899074555, guid: 8657e1aad1b1443979f746833d1d15d3, type: 3}
+      propertyPath: brickScore
+      value: 30
+      objectReference: {fileID: 0}
+    - target: {fileID: 1735101082899074555, guid: 8657e1aad1b1443979f746833d1d15d3, type: 3}
+      propertyPath: gameManager
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 1735101082899074555, guid: 8657e1aad1b1443979f746833d1d15d3, type: 3}
+      propertyPath: potionRarity
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 1735101082899074555, guid: 8657e1aad1b1443979f746833d1d15d3, type: 3}
+      propertyPath: scoreMechanism
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 1735101082899074555, guid: 8657e1aad1b1443979f746833d1d15d3, type: 3}
+      propertyPath: breakEffectSprites.Array.size
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 1735101082899074555, guid: 8657e1aad1b1443979f746833d1d15d3, type: 3}
+      propertyPath: breakEffectSprites.Array.data[0]
+      value: 
+      objectReference: {fileID: -396146493, guid: 3c57a7f826a0d4e9ba93d082d342cd8f, type: 3}
+    - target: {fileID: 1735101082899074555, guid: 8657e1aad1b1443979f746833d1d15d3, type: 3}
+      propertyPath: breakEffectSprites.Array.data[1]
+      value: 
+      objectReference: {fileID: 795438675, guid: 3c57a7f826a0d4e9ba93d082d342cd8f, type: 3}
+    - target: {fileID: 1735101082899074555, guid: 8657e1aad1b1443979f746833d1d15d3, type: 3}
+      propertyPath: breakEffectSprites.Array.data[2]
+      value: 
+      objectReference: {fileID: -1502748406, guid: 3c57a7f826a0d4e9ba93d082d342cd8f, type: 3}
+    - target: {fileID: 1735101082899074555, guid: 8657e1aad1b1443979f746833d1d15d3, type: 3}
+      propertyPath: breakEffectSprites.Array.data[3]
+      value: 
+      objectReference: {fileID: 756927382, guid: 3c57a7f826a0d4e9ba93d082d342cd8f, type: 3}
+    - target: {fileID: 1735101082899074559, guid: 8657e1aad1b1443979f746833d1d15d3, type: 3}
+      propertyPath: m_Name
+      value: BrickPink
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 8657e1aad1b1443979f746833d1d15d3, type: 3}

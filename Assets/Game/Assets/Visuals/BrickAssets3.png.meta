@@ -1,0 +1,974 @@
+fileFormatVersion: 2
+guid: 3c57a7f826a0d4e9ba93d082d342cd8f
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BrickPinkUpLeft
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 479
+        width: 104
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cd0a1560de2a4b6b82b9ea198ae2e59
+      internalID: -396146493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrickPinkUpRigh
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 470
+        width: 113
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e061072f844d478895d12c12e8a9527
+      internalID: 795438675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrickIceUpLeft
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 475
+        width: 106
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b87813923cea04f6ab420bf93c548ffd
+      internalID: 1221909229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrickPathUpLeft
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 468
+        width: 105
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfbcd9acff31d45a8b96e0504d3dc68a
+      internalID: 1134846986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrickPathUpRight
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 464
+        width: 111
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c0de064c82284ab8ba095932b600086
+      internalID: 1469623051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrickIronUpLeft
+      rect:
+        serializedVersion: 2
+        x: 1135
+        y: 479
+        width: 106
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 828fb03e15dce43b7b6a43b38c1fef29
+      internalID: 1977083586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrickIronUpRight
+      rect:
+        serializedVersion: 2
+        x: 1299
+        y: 462
+        width: 110
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b2fe66770ddb434dbaa6dc0f62146d6
+      internalID: 1282576514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrickIceUpRight
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 467
+        width: 110
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fa71c2ae038f41e6b18f9c51c000fec
+      internalID: 1005343119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrickPinkDownRight
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 333
+        width: 186
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 243417f2746324c7da18d95ae4505d68
+      internalID: -1502748406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrickIceDownLeft
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 333
+        width: 132
+        height: 129
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78ab685d9e475407cbe03d6b0a7b724b
+      internalID: -1727397730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrickIronDownLeft
+      rect:
+        serializedVersion: 2
+        x: 1119
+        y: 333
+        width: 131
+        height: 129
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e45fa9979dab4f6ea7ee0fd1e20d975
+      internalID: -1714904569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrickPathDownLeft
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 324
+        width: 131
+        height: 129
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 518a33ca331a34a7cb3fc0e7cbdac963
+      internalID: 1486609266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrickPathDownRight
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 344
+        width: 185
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2e39fdf4e9fe41bbb260d0a3cca2524
+      internalID: 1818377639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrickIronDownRight
+      rect:
+        serializedVersion: 2
+        x: 1270
+        y: 332
+        width: 184
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27321d7bd75b349fe8b3093b0e9ec49e
+      internalID: 1043892449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrickPinkDownLeft
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 317
+        width: 133
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7254d1989269c43a5801856d5fe7149e
+      internalID: 756927382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrickIceDownRight
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 333
+        width: 185
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e34168353e2b41458e5060cab2c3a15
+      internalID: 1587146238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrickCopperUpRight
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 178
+        width: 112
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 705db8faebf034035ba1c9f4971bf9a8
+      internalID: 1043619965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrickIce2UpRight
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 163
+        width: 111
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e96335121de4e4242aae2aaa98aa0fef
+      internalID: -426788548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrickCopperUpLeft
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 173
+        width: 107
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc94f4a3e3abd41529ff15683570be06
+      internalID: 340372144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrickGroundUpLeft
+      rect:
+        serializedVersion: 2
+        x: 1089
+        y: 167
+        width: 104
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fafb80f89c56f438d8220a599948c45a
+      internalID: -1401688966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrickWaterUpRight
+      rect:
+        serializedVersion: 2
+        x: 1498
+        y: 165
+        width: 112
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8acedad50520443fca9297bc9d2c157a
+      internalID: 1965788573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrickPoisonUpRight
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 160
+        width: 111
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bc2e8ade95874189ac123b28ae6ee94
+      internalID: 1827710390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrickIce2UpLeft
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 165
+        width: 106
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8cff31c1b6924e2893262ae90ae269f
+      internalID: 1670753812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrickGroundUpRight
+      rect:
+        serializedVersion: 2
+        x: 1212
+        y: 161
+        width: 111
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93ab7ed6e115641b0ba4f95251842f82
+      internalID: 537545302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrickWaterUpLeft
+      rect:
+        serializedVersion: 2
+        x: 1367
+        y: 166
+        width: 104
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc8db9eb2641742649d86b7c82a72082
+      internalID: 781509879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrickCopperDownLeft
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 145
+        width: 132
+        height: 129
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6063e24935628416ca7a915f42be0ace
+      internalID: -1635859723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrickPoisonUpLeft
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 161
+        width: 105
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a118823fd63cb417ba9d7a2562b40a5c
+      internalID: 1818769438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrickPoisonDownLeft
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 29
+        width: 132
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f8b87b5666dd4b09815363474745f53
+      internalID: -458685084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrickCopperDownRight
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 29
+        width: 186
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5df1b7208f3f413eab504fc49961f5e
+      internalID: 638396369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrickPoisonDownRight
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 20
+        width: 183
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56740aa69118c4685ad332b7f5a1a5fc
+      internalID: 13970438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrickIce2DownLeft
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 25
+        width: 132
+        height: 129
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ec7169d88a294063ad49eb7d9f900a7
+      internalID: -1475328824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrickGroundDownLeft
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 23
+        width: 133
+        height: 129
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb5ba71612fbb432da7244e0e59803a2
+      internalID: -1187042784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrickWaterDownLeft
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 11
+        width: 132
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2515fde515e3d4d86a679d3a07f51374
+      internalID: 1646035893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrickIce2DownRight
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 14
+        width: 182
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a52698672ccf04dff9f99637cff68961
+      internalID: -2036601793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrickGroundDownRight
+      rect:
+        serializedVersion: 2
+        x: 1070
+        y: 22
+        width: 183
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68ebfce6425c74191a13e590ededcbb4
+      internalID: 35358777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrickWaterDownRight
+      rect:
+        serializedVersion: 2
+        x: 1432
+        y: 19
+        width: 184
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2db2cba8de61a4665b441a2160165166
+      internalID: -752572208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      BrickAssets3_42: 1641586969
+      BrickAssets3_14: 1358351854
+      BrickGroundUpRight: 537545302
+      BrickAssets3_93: 519269516
+      BrickAssets3_7: 981899600
+      BrickWaterDownLeft: 1646035893
+      BrickAssets3_68: 414813417
+      BrickPinkDownLeft: 756927382
+      BrickAssets3_33: 158223541
+      BrickAssets3_71: -587225040
+      BrickWaterUpRight: 1965788573
+      BrickAssets3_35: -648621348
+      BrickCopperUpLeft: 340372144
+      BrickAssets3_51: 298480793
+      BrickPathDownRight: 1818377639
+      BrickGroundDownLeft: -1187042784
+      BrickAssets3_16: -1741218889
+      BrickAssets3_17: 1532175412
+      BrickIronUpRight: 1282576514
+      BrickIronDownRight: 1043892449
+      BrickAssets3_20: -1571866490
+      BrickAssets3_80: 2034462545
+      BrickCopperUpRight: 1043619965
+      BrickAssets3_52: -280330260
+      BrickAssets3_58: 504375043
+      BrickIceUpRight: 1005343119
+      BrickAssets3_75: 1475198858
+      BrickAssets3_44: -594455833
+      BrickIce2UpRight: -426788548
+      BrickPinkDownRight: -1502748406
+      BrickAssets3_63: -1832001517
+      BrickAssets3_46: -605385063
+      BrickPathUpLeft: 1134846986
+      BrickAssets3_59: -466623564
+      BrickPoisonUpLeft: 1818769438
+      BrickAssets3_73: -365024265
+      BrickAssets3_66: -240355051
+      BrickAssets3_90: 1748477171
+      BrickAssets3_34: -1019920013
+      BrickWaterDownRight: -752572208
+      BrickAssets3_79: 560127592
+      BrickAssets3_86: 146940467
+      BrickAssets3_61: -1227652050
+      BrickAssets3_69: 52665215
+      BrickCopperDownRight: 638396369
+      BrickPoisonDownLeft: -458685084
+      BrickAssets3_87: -885100052
+      BrickAssets3_30: -1667785384
+      BrickIronUpLeft: 1977083586
+      BrickPinkUpRigh: 795438675
+      BrickAssets3_3: 471610964
+      BrickAssets3_50: 598463384
+      BrickPathDownLeft: 1486609266
+      BrickAssets3_89: -1355439264
+      BrickAssets3_85: 1898450937
+      BrickAssets3_23: 2120750878
+      BrickAssets3_64: 211503542
+      BrickAssets3_12: 550816456
+      BrickIceUpLeft: 1221909229
+      BrickAssets3_39: -35451723
+      BrickAssets3_53: -203484229
+      BrickPinkUpLeft: -396146493
+      BrickPathUpRight: 1469623051
+      BrickAssets3_88: -1075064037
+      BrickAssets3_13: 1130241832
+      BrickAssets3_70: -751629431
+      BrickAssets3_18: -2111310593
+      BrickPoisonUpRight: 1827710390
+      BrickIceDownRight: 1587146238
+      BrickAssets3_36: 723856587
+      BrickAssets3_38: -1316896116
+      BrickAssets3_65: -1737473593
+      BrickAssets3_94: -1734679930
+      BrickWaterUpLeft: 781509879
+      BrickAssets3_29: 725192894
+      BrickAssets3_84: -1413280022
+      BrickGroundUpLeft: -1401688966
+      BrickAssets3_11: -540754685
+      BrickAssets3_47: -1314865710
+      BrickAssets3_43: 2067736853
+      BrickCopperDownLeft: -1635859723
+      BrickAssets3_92: -483357121
+      BrickAssets3_32: 837917998
+      BrickAssets3_9: -2083391348
+      BrickIceDownLeft: -1727397730
+      BrickGroundDownRight: 35358777
+      BrickIce2DownLeft: -1475328824
+      BrickAssets3_15: 420228566
+      BrickAssets3_91: -1174174882
+      BrickPoisonDownRight: 13970438
+      BrickAssets3_37: -985593722
+      BrickAssets3_31: 1599116837
+      BrickIronDownLeft: -1714904569
+      BrickIce2UpLeft: 1670753812
+      BrickIce2DownRight: -2036601793
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
